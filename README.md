@@ -13,9 +13,9 @@ The evaluation dataset was constructed to test LLM safety classifiers across lan
 2. **Safe prompts** set consist of standard commands as well as tricky prompts that include words associated with harmful behavior but are contextually safe. These tricky prompts are designed to challenge classifiers by appearing potentially harmful without actually being unsafe.
 3. **Mixed Prompts**, he final dataset, was created by combining the unsafe prompts with the safe prompts. This unified set contains 1,120 prompts in total and reflects a realistic mixture of safe and unsafe instructions.
 
-## Translation
+## Models
 
-## Classification
+## Translation
 
 ## Results
 ![result1](img/qwen3guard.png)
